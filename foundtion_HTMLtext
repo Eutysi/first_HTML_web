@@ -1,0 +1,12 @@
+tag br - increases space with in the line
+heasding - h1 to h6
+ <table>
+        <tr>
+            <td>2014 to 2015</td>
+            <td>2015 to 2020</td>
+        </tr>
+        <tr>
+            <td>Whirlpool corp ops</td>
+            <td>Site cordinator Amz</td>
+        </tr>
+    </table>
